@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YussufMohmaud
-- 👀 I’m interested in image processing and computer vision.
-- 🌱 I’m currently learning Python Pillow and OpenCV.
-- 💞️ I’m looking to collaborate on plant phenotyping or helping those with color blindness and nearsightedness.
+- 👀 I’m interested in generative art.
+- 🌱 I’m currently learning recursion.
+- 💞️ I’m looking to collaborate on pen plotting or helping those with generative art.
 - 📫 How to reach me on Twitter @YussufMohamud15.
 
 
